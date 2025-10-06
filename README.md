@@ -1,17 +1,15 @@
-# HR-Analytics-Dashboard
-An interactive HR Analytics Dashboard built using Power BI to visualize employee data, analyze workforce trends, and support data-driven HR decision-making.
-
-
-## 🖼️ Dashboard Preview
-![HR Analytics Dashboard](./HR%20Analytics%20Dashboard.jpg)
-
-
 # HR Analytics Dashboard using Power BI
 
 ## 📊 Project Overview
 An interactive HR Analytics Dashboard built using **Power BI** to visualize employee data, analyze workforce trends, and support data-driven HR decision-making.
 
 ---
+
+
+## 🖼️ Dashboard Preview
+![HR Analytics Dashboard](./HR%20Analytics%20Dashboard.jpg)
+
+
 
 ## 📈 Key Metrics
 
