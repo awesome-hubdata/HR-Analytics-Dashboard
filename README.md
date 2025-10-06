@@ -37,6 +37,6 @@ Key findings include:
 
 👩🏽‍💻 Author
 
-Your Name
+Ogundiya Adebisi Michael 
 📧 michaelopiii@gmail.com
 🌐 https://linkedin.com/in/ogundiyaa
